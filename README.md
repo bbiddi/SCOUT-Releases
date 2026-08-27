@@ -21,15 +21,15 @@ A cleaner, faster, and more focused way to enjoy your music.
 
   <br>
 
-  <img src="./assets/scout main 2.png" width="100%" alt="SCOUT Home">
+  <img src="./assets/scout main 2.png" width="50%" alt="SCOUT Home">
 
-  <img src="./assets/scout radar 2.png" width="100%" alt="SCOUT Radar">
+  <img src="./assets/scout radar 2.png" width="50%" alt="SCOUT Radar">
 
-  <img src="./assets/scout listening dna 2.png" width="100%" alt="SCOUT Listening DNA">
+  <img src="./assets/scout listening dna 2.png" width="50%" alt="SCOUT Listening DNA">
 
-  <img src="./assets/scout setting 2.png" width="100%" alt="SCOUT Setting">
+  <img src="./assets/scout setting 2.png" width="50%" alt="SCOUT Setting">
 
-  <img src="./assets/scout all player 2.png" width="100%" alt="SCOUT Full Screen Player">
+  <img src="./assets/scout all player 2.png" width="50%" alt="SCOUT Full Screen Player">
   
 </details>
 
