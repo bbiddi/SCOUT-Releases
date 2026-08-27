@@ -115,6 +115,22 @@ SoundCloud and related trademarks are the property of their respective owners.
 
 ---
 
+## ❤️ Support SCOUT
+
+If you enjoy using SCOUT and would like to support its development, you can buy us a coffee on Ko-fi.
+
+<div align="center">
+
+<a href="https://ko-fi.com/sand2ywav">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support SCOUT on Ko-fi">
+</a>
+
+</div>
+
+---
+
+## Disclaimer
+
 <div align="center">
 
 ### Made for listeners who just want to press play.
