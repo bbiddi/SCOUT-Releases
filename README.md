@@ -8,7 +8,7 @@ A cleaner, faster, and more focused way to enjoy your music.
 
 <br>
 
-[**Download for Windows**](https://github.com/bbiddi/SCOUT-Releases/releases/tag/scout-v0.1.3)
+[**Download for Windows**](https://github.com/bbiddi/SCOUT-for-SoundCloud/releases/tag/scout-v0.1.4)
 
 <br>
 
@@ -63,7 +63,7 @@ Built around a minimal interface and a desktop-optimized experience, SCOUT bring
 
 Download the latest version of SCOUT from the **Releases** page.
 
-[**Download SCOUT →**](https://github.com/bbiddi/SCOUT-Releases/releases/tag/scout-v0.1.3)
+[**Download SCOUT →**](https://github.com/bbiddi/SCOUT-Releases/releases/tag/scout-v0.1.4)
 
 **Requirements**
 
