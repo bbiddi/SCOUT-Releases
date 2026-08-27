@@ -35,7 +35,7 @@ A cleaner, faster, and more focused way to enjoy your music.
 
 ---
 
-## About SCOUT
+## 🛰️ About SCOUT
 
 **SCOUT** is an independent desktop client designed to provide a cleaner, faster, and more focused way to enjoy SoundCloud on Windows.
 
@@ -43,7 +43,7 @@ Built around a minimal interface and a desktop-optimized experience, SCOUT bring
 
 ---
 
-## Features
+## ✨ Features
 
 * 🎧 **SoundCloud Streaming** — Stream your favorite music directly through SCOUT
 * ❤️ **Library & Playlists** — Access your saved tracks and playlists in one place
@@ -57,7 +57,7 @@ Built around a minimal interface and a desktop-optimized experience, SCOUT bring
 
 ---
 
-## Download
+## 📥 Download
 
 ### Windows
 
@@ -78,7 +78,7 @@ A macOS version of SCOUT is planned for a future release.
 
 ---
 
-## Installation
+## 🛠️ Installation
 
 1. Download the latest SCOUT installer from **Releases**.
 2. Run the installer.
@@ -87,7 +87,7 @@ A macOS version of SCOUT is planned for a future release.
 
 ---
 
-## Updates
+## 🔄 Updates
 
 SCOUT includes built-in update support.
 
@@ -95,7 +95,7 @@ When a new version is available, SCOUT can automatically check for and install t
 
 ---
 
-## Contributors
+## 👥 Contributors
 
 <div align="center">
 
@@ -105,7 +105,7 @@ When a new version is available, SCOUT can automatically check for and install t
 
 ---
 
-## Disclaimer
+## ⚖️ Disclaimer
 
 SCOUT is an independent, unofficial project.
 
@@ -128,8 +128,6 @@ If you enjoy using SCOUT and would like to support its development, you can buy 
 </div>
 
 ---
-
-## Disclaimer
 
 <div align="center">
 
