@@ -99,7 +99,7 @@ When a new version is available, SCOUT can automatically check for and install t
 
 <div align="center">
 
-**bbiddi** · **Jungsoo Bae** 997 STUDIO
+**bbiddi** · **Jungsoo Bae** **997 STUDIO**
 
 </div>
 
