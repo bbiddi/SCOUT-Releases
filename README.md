@@ -129,7 +129,16 @@ If you enjoy using SCOUT and would like to support its development, you can buy 
 
 ---
 
+## 📬 Contact
+
+Have a question, feedback, or a collaboration idea? We'd love to hear from you.
+
+📧 **Email:** [997studio.team@gmail.com](mailto:YOUR_EMAIL@example.com)
+
+For bug reports and feature requests, please use this repository's **Issues** tab.
 <div align="center">
+
+---
 
 ### Made for listeners who just want to press play.
 
