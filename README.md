@@ -133,7 +133,7 @@ If you enjoy using SCOUT and would like to support its development, you can buy 
 
 Have a question, feedback, or a collaboration idea? We'd love to hear from you.
 
-📧 **Email:** [997studio.team@gmail.com](mailto:YOUR_EMAIL@example.com)
+📧 **Email:** [997studio.team@gmail.com](mailto:997studio.team@gmail.com)
 
 For bug reports and feature requests, please use this repository's **Issues** tab.
 <div align="center">
