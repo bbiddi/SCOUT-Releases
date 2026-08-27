@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/LOGO TYPO.png" width="100%">
+<img src="./assets/LOGO TYPO.png" width="50%">
 
 ### A modern desktop client for SoundCloud.
 
