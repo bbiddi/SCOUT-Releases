@@ -12,7 +12,7 @@ A cleaner, faster, and more focused way to enjoy your music.
 
 <br>
 
-**Windows 10/11** · **macOS <Coming Soon>**
+**Windows 10/11** · **macOS ! Coming Soon !**
 
 </div>
 
@@ -54,22 +54,6 @@ Built around a minimal interface and a desktop-optimized experience, SCOUT bring
 * 🎵 **Dedicated Desktop Player** — A music experience designed specifically for desktop
 * 🖥️ **Modern Windows Interface** — A clean and intuitive interface built for SCOUT
 * 🔄 **Built-in Updates** — Keep SCOUT up to date without manually reinstalling new versions
-
----
-
-## Screenshots
-
-<div align="center">
-
-<img src="./assets/screenshot-home.png" width="48%" alt="SCOUT Home">
-<img src="./assets/screenshot-search.png" width="48%" alt="SCOUT Search">
-
-<br><br>
-
-<img src="./assets/screenshot-radar.png" width="48%" alt="SCOUT Radar">
-<img src="./assets/screenshot-dna.png" width="48%" alt="SCOUT Listening DNA">
-
-</div>
 
 ---
 
