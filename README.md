@@ -1,6 +1,6 @@
 <div align="center">
 
-# SCOUT
+<img src="./assets/LOGO TYPO.png" width="100%">
 
 ### A modern desktop client for SoundCloud.
 
