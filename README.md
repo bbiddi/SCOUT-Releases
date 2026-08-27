@@ -35,16 +35,6 @@ A cleaner, faster, and more focused way to enjoy your music.
 
 ---
 
-## Preview
-
-<div align="center">
-
-<img src="./assets/screenshot-main.png" width="90%" alt="SCOUT">
-
-</div>
-
-<br>
-
 ## About SCOUT
 
 **SCOUT** is an independent desktop client designed to provide a cleaner, faster, and more focused way to enjoy SoundCloud on Windows.
