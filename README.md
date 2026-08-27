@@ -1,5 +1,150 @@
-# SCOUT Releases
+<div align="center">
 
-Public installer and signed update artifacts for SCOUT.
+# SCOUT
 
-Application source code is maintained in a separate private repository.
+### A modern desktop client for SoundCloud.
+
+A cleaner, faster, and more focused way to enjoy your music.
+
+<br>
+
+[**Download for Windows**](https://github.com/bbiddi/SCOUT-Releases/releases/tag/scout-v0.1.3)
+
+<br>
+
+**Windows 10/11** · **macOS <Coming Soon>**
+
+</div>
+
+<details>
+  <summary>📸 View SCOUT Screenshots</summary>
+
+  <br>
+
+  <img src="./assets/scout main.png" width="100%" alt="SCOUT Home">
+
+  <img src="./assets/scout radar.png" width="100%" alt="SCOUT Radar">
+
+  <img src="./assets/scout listening dna.png" width="100%" alt="SCOUT Listening DNA">
+
+  <img src="./assets/scout setting.png" width="100%" alt="SCOUT Setting">
+
+  <img src="./assets/scout all player.png" width="100%" alt="SCOUT Full Screen Player">
+  
+</details>
+
+---
+
+## Preview
+
+<div align="center">
+
+<img src="./assets/screenshot-main.png" width="90%" alt="SCOUT">
+
+</div>
+
+<br>
+
+## About SCOUT
+
+**SCOUT** is an independent desktop client designed to provide a cleaner, faster, and more focused way to enjoy SoundCloud on Windows.
+
+Built around a minimal interface and a desktop-optimized experience, SCOUT brings your SoundCloud library, playlists, search, and music discovery together in one dedicated app — without the need to keep a full web browser open.
+
+---
+
+## Features
+
+* 🎧 **SoundCloud Streaming** — Stream your favorite music directly through SCOUT
+* ❤️ **Library & Playlists** — Access your saved tracks and playlists in one place
+* 🔍 **Search** — Find tracks, artists, and playlists
+* 🧭 **Music Discovery** — Discover new tracks and artists
+* 📡 **Radar** — Personalized music discovery based on your listening history and preferences
+* 🧬 **Listening DNA** — Explore your unique listening profile through insights into your favorite genres, artists, moods, and listening patterns
+* 🎵 **Dedicated Desktop Player** — A music experience designed specifically for desktop
+* 🖥️ **Modern Windows Interface** — A clean and intuitive interface built for SCOUT
+* 🔄 **Built-in Updates** — Keep SCOUT up to date without manually reinstalling new versions
+
+---
+
+## Screenshots
+
+<div align="center">
+
+<img src="./assets/screenshot-home.png" width="48%" alt="SCOUT Home">
+<img src="./assets/screenshot-search.png" width="48%" alt="SCOUT Search">
+
+<br><br>
+
+<img src="./assets/screenshot-radar.png" width="48%" alt="SCOUT Radar">
+<img src="./assets/screenshot-dna.png" width="48%" alt="SCOUT Listening DNA">
+
+</div>
+
+---
+
+## Download
+
+### Windows
+
+Download the latest version of SCOUT from the **Releases** page.
+
+[**Download SCOUT →**](https://github.com/bbiddi/SCOUT-Releases/releases/tag/scout-v0.1.3)
+
+**Requirements**
+
+* Windows 10 or Windows 11
+* 64-bit system
+
+### macOS
+
+**Coming Soon.**
+
+A macOS version of SCOUT is planned for a future release.
+
+---
+
+## Installation
+
+1. Download the latest SCOUT installer from **Releases**.
+2. Run the installer.
+3. Launch SCOUT.
+4. Start listening.
+
+---
+
+## Updates
+
+SCOUT includes built-in update support.
+
+When a new version is available, SCOUT can automatically check for and install the latest release.
+
+---
+
+## Contributors
+
+<div align="center">
+
+**bbiddi** · **Ethan Bae**
+
+</div>
+
+---
+
+## Disclaimer
+
+SCOUT is an independent, unofficial project.
+
+SCOUT is not affiliated with, endorsed by, sponsored by, or officially connected with SoundCloud.
+
+SoundCloud and related trademarks are the property of their respective owners.
+
+---
+
+<div align="center">
+
+### Made for listeners who just want to press play.
+
+**SCOUT**
+
+</div>
